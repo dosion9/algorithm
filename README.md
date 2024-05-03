@@ -39,10 +39,10 @@
 ### 1️⃣Study Format
 
 ```
-git commit -m "[Keyword]: [(#Issue)] 제목"
+git commit -m "[Keyword]: 제목"
 ```
 
-- 💡예시: `[docs]: [(#1)] 스택`
+- 💡예시: `[docs]: 스택`
 
 #### Keyword
 
@@ -64,10 +64,10 @@ git commit -m "[Keyword]: [(#Issue)] 제목"
 ### 2️⃣Problem Format
 
 ```
-git commit -m "[Keyword]: [(#Issue)][Platform][Level] 제목"
+git commit -m "[Keyword]: [Platform][Level] 제목"
 ```
 
-- 💡예시: `[solve]: [(#1)][프로그래머스][Lv1] 문제풀이`
+- 💡예시: `[solve]: [프로그래머스][Lv1] 문제풀이`
 
 #### Keyword
 
